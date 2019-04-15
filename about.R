@@ -16,7 +16,7 @@ tabPanel("About",
            column(4,
                   HTML('<strong>Source Code on Github</strong>
                       <ul>
-                      <li><a href="https://github.com/ucd-cws", target="_blank">CWS Code</a></li>
+                      <li><a href="https://github.com/ryanpeek/zoop_iep", target="_blank">Code</a></li>
                       </ul>')
            )
          ),
