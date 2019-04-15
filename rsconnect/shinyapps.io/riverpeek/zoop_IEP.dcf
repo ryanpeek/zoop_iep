@@ -1,0 +1,12 @@
+name: zoop_iep
+title: zoop_iep
+username:
+account: riverpeek
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 866686
+bundleId: 2013931
+url: https://riverpeek.shinyapps.io/zoop_IEP/
+when: 1555367970.66848
+asMultiple: FALSE
+asStatic: FALSE
